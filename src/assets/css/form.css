@@ -1,0 +1,210 @@
+.input {
+    background: lightyellow;
+    color: sienna;
+    margin-right: 10px;
+    margin-left: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.container1 {
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 3px;
+}
+
+h1 {
+    display: flex;
+    color: maroon;
+    justify-content: center;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-text-stroke: 2px white
+}
+
+h2 { 
+    margin-top: 10px;
+    display: flex;
+    color: maroon;
+    justify-content: center;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+ }
+
+.formHeader {
+    border: 3px solid maroon; 
+    border-radius: 5px;
+    background-image: url("../img/Barrels3.jpg");
+    color: darkslategrey;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+p {
+    color: white;
+}
+
+.about {
+    border: 3px solid maroon; 
+    border-radius: 5px;
+    background-image: url("../img/Barrels4.jpg");
+    color: darkslategrey;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.home {
+    border: 3px solid maroon; 
+    border-radius: 5px;
+    background-image: url("../img/Barrels.jpg");
+    color: darkslategrey;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.collect {
+    border: 3px solid maroon; 
+    border-radius: 5px;
+    background-image: url("../img/Barrels2.jpg");
+    color: darkslategrey;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.addForm {
+    border: 3px solid blue; 
+    border-radius: 5px;
+    background: lightgrey;
+    color: darkslategrey;
+    width:auto;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#formView {
+    border: 3px solid blue; 
+    border-radius: 5px;
+    background: lightGrey;
+    color: darkslategrey;
+    padding: 5px;
+    margin: 50px;
+}
+
+#label{
+    color: blue;
+    font-weight: bold;
+    width: 75px;
+    display: inline-block;
+    text-align: right;
+    margin-left: 8px;
+}
+
+#inId {
+    width: 45px;
+    background: lightgoldenrodyellow;
+    color: maroon;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+
+#inForm {
+    width: 250px;
+    background: lightgoldenrodyellow;
+    color: maroon;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+
+#inName {
+    width: 170px;
+    background: lightgoldenrodyellow;
+    color: maroon;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+
+#inType {
+    width: 120px;
+    background: lightgoldenrodyellow;
+    color: maroon;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+
+#inBig {
+    width: 200px;
+    background: lightyellow;
+    color: sienna;
+    margin-right: 10px;
+    margin-left: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#bColor {
+    background: #4682B4;
+    color: white;
+    border-radius: 4px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#div {
+    margin-top: 0x;
+    margin-bottom: 0px;
+}
+#div1 {
+    margin-top: 5x;
+    margin-bottom: 5px;
+}
+
+#fset {
+    color: 5px blue;
+    background: lightgoldenrodyellow;
+    border: 3px solid blue;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+#jset {
+    color: blue;
+    background: lightgrey;
+    border: 3px solid blue;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+#caution {
+    color: crimson;
+    margin: 5px;
+}
+
+#legend {
+    color: sienna;
+}
+
+#href {
+    color: sienna;
+}
