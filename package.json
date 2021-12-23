@@ -9,7 +9,7 @@
     "dev": "nodemon server/index.js"
   },
   "dependencies": {
-    "node": "^17.16.6",
+    "node": "^14.17.6",
     "axios": "^0.24.0",
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
